@@ -9,7 +9,7 @@
 <h2> Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/karol-grek/">LinkedIn</a>
-mail : karol.grek.work@gmail.com
+<a>mail : karol.grek.work@gmail.com</a>
 
 <!--
 Here are some ideas to get you started:
