@@ -8,7 +8,7 @@
 
 <h2> Connect with me:</h2>
 
-[LinkedIn]: https://www.linkedin.com/in/karol-grek/
+<a href="https://www.linkedin.com/in/karol-grek/">LinkedIn</a>
 mail : karol.grek.work@gmail.com
 
 <!--
