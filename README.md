@@ -1,5 +1,5 @@
 <h1>Hi, I'm Karol! </h1>
-<a>Programming and application development</a> , <a href="https://www.linkedin.com/in/karol-grek/">Student</a>
+<a>Programming and application development </a><a href="https://www.linkedin.com/in/karol-grek/">Student</a>
 
 <h2>My Application Development Projects:</h2>
 
