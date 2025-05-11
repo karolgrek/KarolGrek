@@ -1,12 +1,12 @@
 <h1>Hi, I'm Karol! </h1>
 <a>Programming and application development </a><a href="https://www.linkedin.com/in/karol-grek/">Student</a>
 
-<h2>My Application Development Projects:</h2>
+<h2> 👨‍💻 My Application Development Projects:</h2>
 
 - <b>Python implemented Connect Four with simple UI</b>
   - [Connect_four](https://google.com)
 
-<h2> Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/karol-grek/">LinkedIn</a></br>
 <a>mail : karol.grek.work@gmail.com</a>
