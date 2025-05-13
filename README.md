@@ -4,7 +4,7 @@
 <h2> 👨‍💻 My Application Development Projects:</h2>
 
 - <b>Python implemented Connect Four with simple UI</b>
-  - [Connect_four](https://google.com)
+  - [Connect_four](https://github.com/karolgrek/connect_four.git)
 
 <h2> 🤳 Connect with me:</h2>
 
