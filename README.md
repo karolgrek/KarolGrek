@@ -3,11 +3,15 @@
 
 <h2> 👨‍💻 My Application Development Projects:</h2>
 
-- <b>Python projects</b>
+- <b> 🐍 Python projects</b>
   - Connect Four with simple UI
     - [Connect_four](https://github.com/karolgrek/connect_four.git)
   - Minesweeper with local user-data, simple interactive UI, gamemodes
-    - [Minesweeper](https://github.com/karolgrek/Minesweeper.git)   
+    - [Minesweeper](https://github.com/karolgrek/Minesweeper.git)
+- <b> 𐃗 C projects</b>
+
+- <b> 📊 R projects</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/karol-grek/">LinkedIn</a></br>
