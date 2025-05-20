@@ -9,7 +9,8 @@
   - Minesweeper with local user-data, simple interactive UI, gamemodes
     - [Minesweeper](https://github.com/karolgrek/Minesweeper.git)
 - <b> 𐃗 C projects</b>
-
+  - Basic CPU Emulator in C with Stack, Registers, Instructions, and I/O
+    - [CPU_Emulator](https://github.com/karolgrek/cpu.git)
 - <b> 📊 R projects</b>
 
 <h2> 🤳 Connect with me:</h2>
