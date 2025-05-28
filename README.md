@@ -10,16 +10,16 @@
     - [Minesweeper](https://github.com/karolgrek/Minesweeper.git)
 - <b> 𐃗 C projects</b>
   - Unix-style > find < Clone - command-line tool to recursively search directories based on arguments
-    - [Find]()
+    - [Find](https://github.com/karolgrek/find)
   - Basic CPU Emulator in C with Stack, Registers, Instructions, and I/O
     - [CPU_Emulator](https://github.com/karolgrek/cpu.git)
   - Texas Hold'em Poker  parser and evaluator that determines the winner between two poker hands
-    - [Texas Hold'em Poker](). 
+    - [Texas Hold'em Poker](https://github.com/karolgrek/texasholdempoker). 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.linkedin.com/in/karol-grek/">LinkedIn</a></br>
+<a href="https://www.linkedin.com/in/karol-grek/">LinkedIn(Momentarily account restricted)</a></br>
 <a>mail : karol.grek.work@gmail.com</a>
 
 <!--
