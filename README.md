@@ -5,9 +5,9 @@
 
 - <b> 🐍 Python projects</b>
   - Connect Four with simple UI
-    - [Connect_four](https://github.com/karolgrek/connect_four.git)
+    - [Connect_four](https://github.com/karolgrek/connectfour.git)
   - Minesweeper with local user-data, simple interactive UI, gamemodes
-    - [Minesweeper](https://github.com/karolgrek/Minesweeper.git)
+    - [Minesweeper](https://github.com/karolgrek/mine_sweeper.git)
 - <b> 𐃗 C projects</b>
   - Unix-style > find < Clone - command-line tool to recursively search directories based on arguments
     - [Find](https://github.com/karolgrek/find)
