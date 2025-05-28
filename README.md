@@ -9,9 +9,13 @@
   - Minesweeper with local user-data, simple interactive UI, gamemodes
     - [Minesweeper](https://github.com/karolgrek/Minesweeper.git)
 - <b> 𐃗 C projects</b>
+  - [Unix-style > find < Clone]()
+    - command-line tool to recursively search directories based on arguments.
   - Basic CPU Emulator in C with Stack, Registers, Instructions, and I/O
     - [CPU_Emulator](https://github.com/karolgrek/cpu.git)
-- <b> 📊 R projects</b>
+  - [Texas Hold'em Poker evaluator]()
+    - parser and evaluator that determines the winner between two poker hands. 
+
 
 <h2> 🤳 Connect with me:</h2>
 
